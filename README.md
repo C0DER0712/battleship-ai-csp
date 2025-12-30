@@ -101,8 +101,8 @@ The AI demonstrates significant performance improvements over random strategies:
 
 ## 📁 Project Structure
 
-- `AI_PROJECT.ipynb` - Main implementation notebook
-- `AI_project-report.pdf` - Detailed project report
+- `Battleship-ai-csp.ipynb` - Main implementation notebook
+- `project-report.pdf` - Detailed project report
 
 ## 🎓 Key Learnings
 
